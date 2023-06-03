@@ -1,4 +1,4 @@
-21766345876439078
+21768031557470134
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63552,6 +63552,13 @@ Integrated Circuit
 0
 10
 10
+NaveenSymbols
+SOP65P490X110-9N
+MS8E Package 8-Lead Plastic MSOP, Exposed Die Pad
+Integrated Circuit
+0
+9
+9
 NaveenSymbols
 SOT95P280X90-6N
 SOT23-6-ren2
